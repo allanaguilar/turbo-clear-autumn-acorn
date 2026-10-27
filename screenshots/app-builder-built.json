@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Senda Ígnea",
+      "hasCanvas": true,
+      "bodyTextLen": 491,
+      "bodyTextHash": "4d6e57703378ec7ad187f1b9fd7016de542ef1be44a1467bfd18481be16b35fd",
+      "bodyTextPrefix": "VALLE EN ASCUAS Senda Ígnea 18 vidas 140 oro 1/10 oleada ×1 DEFE",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Senda Ígnea",
+      "hasCanvas": true,
+      "bodyTextLen": 405,
+      "bodyTextHash": "7c72681e9680e2aba4161cf7d97ad09acd1254f2667cb2f62101d2ef9d55eebe",
+      "bodyTextPrefix": "Senda Ígnea 18 vidas 140 oro 1/10 oleada ×1 La senda arde Planta",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
